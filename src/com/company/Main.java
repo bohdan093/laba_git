@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello");
    Junior junior = new Junior(18, "Bohdan");
         System.out.println(junior);
+        System.out.println(junior);
     }
 }
